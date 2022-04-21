@@ -1,7 +1,7 @@
 
-let num = 50;
-
 // цикл while условие потом дейтсиве
+
+let num = 50;
 while (num <= 55) {
     console.log(num);
     num++;
